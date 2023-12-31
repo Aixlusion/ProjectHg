@@ -4,12 +4,13 @@ about: Use this if you encounter mod error. Make sure you have the crash log (do
   paste it in)
 title: I got bug!
 labels: ''
-assignees: ''
+assignees: Aixlusion
 
 ---
 
 **What happened?**
 Describe the mod behavior when it dumb.
+
 
 **How to reproduce?**
 Steps to reproduce the behavior:
@@ -21,7 +22,8 @@ Steps to reproduce the behavior:
 A clear and concise description of what you expected to happen.
 
 **Log**
-Use any text storage service and then paste the down below:
+Use any text storage service and then paste the down below: (also you can add ingame screenshot)
+
 
 
 **Your system info:**
